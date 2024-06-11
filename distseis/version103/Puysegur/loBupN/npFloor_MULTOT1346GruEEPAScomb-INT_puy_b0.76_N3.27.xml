@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
-  <!--2022 NZ Seismic Hazard Model 1y (GNS Science; 10062024)-->
+  <!--2022 NZ Seismic Hazard Model 1y (GNS Science; 11062024)-->
   <sourceModel name="New Zealand Distributed Seismicity Model - interface_puysegur (1y) ">
     <pointSource id="puy000001" name="ptpuy000001" tectonicRegion="Subduction Interface">
       <pointGeometry>
